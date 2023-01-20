@@ -27,3 +27,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+### 📚 Learning Projects
+- [TodoList with React, Redux and TypeScript](https://github.com/JoselynDRF/react-redux-typescript-todolist)
+- [Multi Step Form with React, Formik and Material UI](https://github.com/JoselynDRF/react-formik-form)
+- [SweetsCart with React, Redux and Bootstrap](https://github.com/JoselynDRF/react-redux-sweetscart)
+- [Linkedin Clone with Next.js](https://github.com/JoselynDRF/react-nextjs-linkedin)
+- [SaveLinks with React and Bootstrap](https://github.com/JoselynDRF/react-savelinks)
+- [Blog Example with CodeIgniter](https://github.com/JoselynDRF/codeigniter-myblog)
+
