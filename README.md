@@ -133,5 +133,5 @@ Prototyped and developed widgets for Internet Banking.
   
 </br>
 
-Video...
+https://user-images.githubusercontent.com/15716360/213884161-a3c756a9-c44f-4c1d-a4d5-73b01f71cc02.mp4
 </details>
