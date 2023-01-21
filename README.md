@@ -1,7 +1,7 @@
 <h1> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<span>Welcome to my profile! :smiley:</span>
-<span>I'm a Front-End Developer :computer:</span>
+<span>Welcome to my profile! 😄</span>
+<span>I'm a Front-End Developer 💻</span>
 
 ## 🛠 Languages and Tools
 
@@ -90,7 +90,7 @@ https://user-images.githubusercontent.com/15716360/213870291-14048f88-af44-4215-
 
 #
 
-### 💰 Products Management
+### 💰 Products Management App
 
 Designed and implemented a web application to manage products and prices from an online store.
 
@@ -139,7 +139,7 @@ https://user-images.githubusercontent.com/15716360/213887730-f1710083-0f22-40ec-
 
 ### 🏦 Widgets for Internet Banking
 
-Prototyped and developed widgets for Internet Banking.
+Prototyped and implemented widgets for Internet Banking.
 
 <details>
 <summary><strong>Features and Technologies</strong></summary>
@@ -155,8 +155,14 @@ Prototyped and developed widgets for Internet Banking.
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
 </p>
 
-* ...
-* ...
+</br>
+
+- Widget for payments of services
+- Widget for pending operations
+- Desktop and mobile layouts
+
+</br>
+
 </details>
 
 <details>
