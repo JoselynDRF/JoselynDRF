@@ -1,9 +1,9 @@
-<h2> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+<h1> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <span>Welcome to my profile! :smiley:</span>
 <span>I'm a Front-End Developer :computer:</span>
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-### 📚 Learning Projects
+## 📚 Learning Projects
 - [TodoList with React, Redux and TypeScript](https://github.com/JoselynDRF/react-redux-typescript-todolist)
 - [Multi Step Form with React, Formik and Material UI](https://github.com/JoselynDRF/react-formik-form)
 - [SweetsCart with React, Redux and Bootstrap](https://github.com/JoselynDRF/react-redux-sweetscart)
@@ -36,11 +36,9 @@
 - [SaveLinks with React and Bootstrap](https://github.com/JoselynDRF/react-savelinks)
 - [Blog Example with CodeIgniter](https://github.com/JoselynDRF/codeigniter-myblog)
 
-### ⭐ Main Projects
+## ⭐ Main Projects
 
-#
-
-#### 🍭 Candy Store Website
+### 🍭 Candy Store Website
 
 Designed and implemented a candy store website.
 
@@ -77,7 +75,7 @@ https://user-images.githubusercontent.com/15716360/213870291-14048f88-af44-4215-
 
 #
 
-#### 💰 Products Management
+### 💰 Products Management
 
 Designed and implemented a web application to manage products and prices from an online store.
 
@@ -108,7 +106,7 @@ Video...
 
 #
 
-#### 🏦 Widgets for Internet Banking
+### 🏦 Widgets for Internet Banking
 
 Prototyped and developed widgets for Internet Banking.
 
