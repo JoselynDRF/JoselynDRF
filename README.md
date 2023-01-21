@@ -65,8 +65,8 @@ Designed and implemented a candy store website.
 
 - Show candy store information stored in the database
 - Image gallery with preview
-- Contact form with reCAPTCHA, client-side and server-side validations
-- Sending email in the contact form
+- Send an email with the contact form
+- Contact form with reCAPTCHA, client-side and server-side validation
 - Location with Google Maps
 - Links for social media (Facebook and Instagram)
 - Cookie Policy Terms and Conditions
@@ -106,9 +106,25 @@ Designed and implemented a web application to manage products and prices from an
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+</p>
 
-* ...
-* ...
+</br>
+
+- Login with Auth0
+- Email verification
+- Show products, categories, and materials stored in the database
+	- Products with name, category color, image, one or more models and prices, description, materials, and a link to a Facebook page
+	- Categories with name and color
+	- Materials with name and price
+- Create, edit and delete products, categories, and materials
+- Set a category color with a color picker
+- Upload a product image, and see a preview in create product form
+- Forms with client-side validation
+- Server-side rendering with Next.js
+- Responsive design with Material UI
+
+</br>
+
 </details>
 
 <details>
