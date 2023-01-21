@@ -61,8 +61,23 @@ Designed and implemented a candy store website.
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </p>
 
-* ...
-* ...
+</br>
+
+- Show candy store information stored in the database
+- Image gallery with preview
+- Contact form with reCAPTCHA, client-side and server-side validations
+- Sending email in the contact form
+- Location with Google Maps
+- Links for social media (Facebook and Instagram)
+- Cookie Policy Terms and Conditions
+- Button to return to the top of the screen
+- Responsive design
+- Optimized images
+- Lazy loading images
+- Animations
+- Google Analytics
+
+</br>
 </details>
 
 <details>
