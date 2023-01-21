@@ -101,7 +101,7 @@ Designed and implemented a web application to manage products and prices from an
   
 </br>
 
-Video...
+https://user-images.githubusercontent.com/15716360/213887730-f1710083-0f22-40ec-a91b-f11e475051d3.mp4
 </details>
 
 #
