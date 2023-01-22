@@ -1,7 +1,8 @@
 <h1> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<span>Welcome to my profile! 😄</span>
-<span>I'm a Front-End Developer 💻</span>
+<strong>Welcome to my profile! 😄</strong>
+</br></br>
+<span>I am a Software Developer with experience as a Front-end Developer in the banking sector. I specialize in creating web applications and am passionate about programming, design, and project management. I enjoy working in teams and am committed to developing high-quality products with a good user experience. I am always looking for new challenges and opportunities to improve my skills and follow the best development practices.</span>
 
 ## 🛠 Languages and Tools
 
