@@ -2,7 +2,7 @@
 
 <strong>Welcome to my profile! 😄</strong>
 </br></br>
-<span>I am a Software Developer with experience as a Front-end Developer in the banking sector. I specialize in creating web applications and am passionate about programming, design, and project management. I enjoy working in teams and am committed to developing high-quality products with a good user experience. I am always looking for new challenges and opportunities to improve my skills and follow the best development practices.</span>
+<span>I am a Software Developer with experience as a Front-End Developer in the banking sector. I specialize in creating web applications and am passionate about programming, design, and project management. I enjoy working in teams and am committed to developing high-quality products with a good user experience. I am always looking for new challenges and opportunities to improve my skills and follow the best development practices.</span>
 
 ## 🛠 Languages and Tools
 
